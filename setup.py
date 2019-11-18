@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="hello-jkfran",
-    version="0.2",
+    version="0.3",
     scripts=["hello-jkfran"],
     author="Francisco Jimenez Cabrera",
     author_email="jkfran@gmail.com",
